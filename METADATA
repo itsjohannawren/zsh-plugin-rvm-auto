@@ -1,6 +1,3 @@
 REPO:jwalter-1
 VERSION:0.1.0
 DESCRIPTION:Activates correct version of Ruby via RVM based on .ruby-version and Gemfile files in your path
-USE:
-HELP:
-HELP:
